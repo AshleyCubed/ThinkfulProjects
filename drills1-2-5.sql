@@ -1,6 +1,5 @@
 -- 1) What are the three longest trips on rainy days?
 
-```SQL
 WITH raining as 
 (
 SELECT 
@@ -18,12 +17,10 @@ JOIN raining as r
 on DATE(t.start_date) = r.rain_date
 ORDER BY duration DESC
 LIMIT 3;
-```
 
 
 -- 2) Which station is full most often?
 
-```SQL
 SELECT
 	status.station_id, 
 	stations.name,
@@ -33,13 +30,11 @@ JOIN stations
 on status.station_id = stations.station_id
 GROUP BY 1,2
 ORDER BY empty_count DESC;
-```
 
 
 -- 3) Return a list of stations with a count of number of trips 
 -- 		starting at that station but ordered by dock count.
 
-```SQL
 SELECT trips.start_station as station_name, 
 	COUNT(trips.start_station) station_count, 
 	stations.dockcount 
@@ -48,13 +43,11 @@ JOIN stations
 ON trips.start_station = stations.name
 GROUP BY 1,3
 ORDER BY stations.dockcount;
-```
 
 
 -- 4) (Challenge) What's the length of the longest 
 -- 		trip for each day it rains anywhere?
 
-```SQL
 WITH rainy as 
 (
 SELECT 
@@ -79,4 +72,3 @@ SELECT
 from rain_trips
 GROUP BY 1
 ORDER BY max_duration DESC;
-```
