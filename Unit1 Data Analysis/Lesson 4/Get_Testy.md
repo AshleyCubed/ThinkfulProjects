@@ -12,7 +12,7 @@ ___
 
 
 #### Will a new homepage improve my online exotic pet rental business?
-<p>	The two version will be the original home page, and a new home page sent, both marketed to similar sized groups within certain demographics. The hypothesis is that the new homepage is more user friendly and will cause more clicks leading to rentals. The outcome to be achieved is more exotic pet rentals. Other variables to consider will be location, time of year (weather), large events that may be happening in the area where people want to see exotic animal on display.</p>
+<p>	The two versions will be the original home page and a new home page sent, both marketed to similar sized groups within certain demographics. The hypothesis is that the new homepage is more user friendly and will cause more clicks leading to rentals. The outcome to be achieved is more exotic pet rentals. Other variables to consider will be location, time of year (weather), large events that may be happening in the area where people want to see exotic animal on display.</p>
 
 
 #### If I put 'please read' in the email subject will more people read my emails?
