@@ -1,5 +1,5 @@
 # ThinkfulProjects
-Projects I've done via Thinkful
+Links to all projects (challenges, drills, and capstones) I've done at Thinkful. Below are capstone projects and noteable challenge projects.
 
 ## Capstones
 [Analytics](https://github.com/AshleyCubed/ThinkfulProjects/blob/master/Unit1%20Data%20Analysis/Capstone1/Unit%201%20Capstone%20Narrative%20Analytics.ipynb)
