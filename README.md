@@ -6,6 +6,8 @@ Links to all projects (challenges, drills, and capstones) I've done at Thinkful.
 
 [Visualizations](https://github.com/AshleyCubed/ThinkfulProjects/blob/master/Happiness%20Capstone%20Report%20-%20AE%20Simpson.ipynb)
 
+[Binary Classification](https://github.com/AshleyCubed/ThinkfulProjects/blob/master/Unit%203/Capstone/Predicting%20Women%E2%80%99s%20Freedom.pdf)
+
 ## Models
 [KNN and OLS](https://github.com/AshleyCubed/ThinkfulProjects/blob/master/Unit%203/Challenges/3.1.4%20Model%20Comparison%20-%20Regression.ipynb)
 
