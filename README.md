@@ -4,7 +4,7 @@ Links to all projects (challenges, drills, and capstones) I've done at Thinkful.
 ## Capstones
 [Analytics](https://github.com/AshleyCubed/ThinkfulProjects/blob/master/Unit1%20Data%20Analysis/Capstone1/Unit%201%20Capstone%20Narrative%20Analytics.ipynb)
 
-[Visualizations](https://github.com/AshleyCubed/ThinkfulProjects/blob/master/Happiness%20Capstone%20Report%20-%20AE%20Simpson.ipynb)
+[Visualizations](https://nbviewer.jupyter.org/github/AshleyCubed/ThinkfulProjects/blob/fd6210b7800337457374edf098077f9dad77ebfe/Happiness%20Capstone%20Report%20-%20AE%20Simpson.ipynb)
 
 [Binary Classification](https://github.com/AshleyCubed/ThinkfulProjects/blob/master/Unit%203/Capstone/Predicting%20Women%E2%80%99s%20Freedom.pdf)
 
