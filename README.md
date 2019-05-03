@@ -16,3 +16,6 @@ Links to all projects (challenges, drills, and capstones) I've done at Thinkful.
 [Decision Trees and Random Forests](https://github.com/AshleyCubed/ThinkfulProjects/blob/master/Unit%203/Challenges/CHALLENGE%20If%20a%20tree%20falls....ipynb)
 
 [Binary Classification](https://github.com/AshleyCubed/ThinkfulProjects/blob/master/Unit%203/Capstone/Predicting%20Women%E2%80%99s%20Freedom.pdf)
+
+[Introductory Unsupervised NLP]
+(https://colab.research.google.com/drive/1HfVGlQRNwdbPtMs_e402DcgkopT8sUtf)
