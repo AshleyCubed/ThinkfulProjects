@@ -1,14 +1,16 @@
 # ThinkfulProjects
 Links to all projects (challenges, drills, and capstones) I've done at Thinkful. Below are capstone projects and noteable challenge projects.
 
-### Binary Classification
+## Binary Classification
 [Credit Card Fraud: SMOTE Logistic Regression SVC & KNN](https://github.com/AshleyCubed/ThinkfulProjects/blob/master/Unit%203/Potpourri/Credit_Card_Fraud.ipynb)
 
-### Unsupervised Learning
+## Unsupervised Learning
 [Visualizaiton and Clustering: Mean-shift and DBScan](https://github.com/AshleyCubed/ThinkfulProjects/blob/master/Unit%204%20Unsupervised/Boston%20Marathon%20-%20Clustering.ipynb)
 
 
 ## More Models
+[Visualizations and Plotly dashboard worldmap](https://nbviewer.jupyter.org/github/AshleyCubed/ThinkfulProjects/blob/master/Happiness%20Capstone%20Report%20-%20AE%20Simpson.ipynb)
+
 [Neural Networks](https://colab.research.google.com/drive/1JAN_sEw-faJ8ek_6Fox_3WzIexvOQjAU)
 
 [KNN and OLS](https://github.com/AshleyCubed/ThinkfulProjects/blob/master/Unit%203/Challenges/3.1.4%20Model%20Comparison%20-%20Regression.ipynb)
